@@ -2,7 +2,7 @@
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "negative_hand-neg,bad-hands-5,badhandv4,verybadimagenegative_v1.3,EasyNegative,(pussy:1.5),(vigina:1.5),(viginal:1.5),(girl:1.5),(female:1.5),(extra nipples:1.5),(extra testicles:1.5),(worst quality:1.5),(bad quality:1.5),(low quality:1.5),(normal quality:1.5),deformed,(((too many fingers))),speech bubble,logo,text,watermark,signature,gym,abstract,mosaic art,sketches,lineart,doodles,unfinished,making-of,how to,bad perspective,error,lowres,jpeg artifacts,scan artifacts,monochrome,grayscale,blurry,bad anatomy,monochrome,username,out of focus,bad proportions,cropped,",
+    "txt2img/Negative prompt/value": "",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
         "Default"
