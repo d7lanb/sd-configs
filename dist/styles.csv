@@ -1,7 +1,7 @@
 ﻿name,prompt,negative_prompt
 Default,"(muscular),(topless),cowboy shot,pov,belly,beefy,body fat,strong,dirty,happy,handsome,nsfw,(sweaty:0.9),(steamy:0.9)
 masterpiece,best quality,8k,extremely detailed 8k wallpaper,
-({sexy,penis,|sexy,penis,|(mature,bulge,wearing underwear,((sfw)),|(from behind), (butt pose), (anus),|(from behind), (butt pose), (anus),}),(cum:0.9),
+({(mature,bulge,wearing underwear,((sfw)),|sexy,penis,|sexy,penis,|(from behind), (butt pose), (anus),|(from behind), (butt pose), (anus),}),(cum:0.9),
 mature,sexy,handsome,male focus,pectoral focus,large pectorals,manly, ((male focus)),
 {athletic wear,| bermuda shorts,| blazer,| bomber jacket,| button-up shirt,| cardigan,| cargo pants,| chinos,| coat,| crew neck t-shirt,| crewneck,| denim jacket,| denim jeans,| denim shirt,| dress shirt,| dress shorts,| flannel shirt,| gym shorts,| henley,| hoodie,| jacket,| jeans,| joggers,| jumper,| khakis,| leather jacket,| linen shirt,| long sleeve shirt,| long-sleeve shirt,| mackintosh,| muscle shirt,| overalls,| oxford shirt,| pants,| parka,| pea coat,| polo shirt,| raincoat,| romper,| rugby shirt,| scarf,| shirt,| short sleeve shirt,| shorts,| sleeveless shirt,| sport coat,| suit,| suit jacket,| suit pants,| suit shorts,| suit trousers,| suit vest,| sweater,| sweatpant,| sweatshirt,| swim trunks,| t-shirt,| t-shirt dress,| tank top,| track jacket,| track pants,| tracksuit,| trench coat,| turtleneck,| vest,| waistcoat,| windbreaker,| windcheater,| zip-up hoodie}
 {british,| czech,| european,| french,| german,| hungarian,| icelandic,| irish,| italian,| jewish,| polish,| portuguese,| russian,| [russian:japanese:0.3],| spanish,| swedish,| ukrainian,| welsh}
