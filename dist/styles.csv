@@ -26,3 +26,25 @@ speech bubble,logo,text,watermark,signature,gym,
 abstract,mosaic art,sketches,lineart,doodles,unfinished,making-of,how to,
 bad perspective,error,lowres,jpeg artifacts,scan artifacts,monochrome,grayscale,
 blurry,bad anatomy,monochrome,username,out of focus,bad proportions,cropped,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
+vf,"(muscular),(topless),cowboy shot,pov,belly,beefy,body fat,strong,dirty,happy,handsome,
+({sexy,(penis),|(mature,bulge,wearing underwear,((sfw)),|(from behind), (butt pose), (anus),}),(cum:0.8),
+
+mature,sexy,handsome,male focus,pectoral focus,large pectorals,manly,
+masterpiece,best quality,8k,extremely detailed 8k wallpaper,
+
+{british,| czech,| european,| french,| german,| hungarian,| icelandic,| irish,| italian,| jewish,| polish,| portuguese,| russian,| [russian:japanese:0.3],| spanish,| swedish,| ukrainian,| welsh}
+{black,| blue,| brown,| dark blue,| dark brown,| dark green,| dark orange,| dark purple,| dark red,| gray,| green,| light blue,| light brown,| light green,| purple,| red,| pink,| orange,| white,| yellow}
+{hazel,| green,| brown,| black,| grey,| purple,| pink,| red,| silver,| yellow,| turquoise,| aquamarine,| ruby,| coral,| dark brown,| jade,| teal,| light blue,| blue,| grey-blue,| amber}
+{beard,| blunt cut,| buzz cut,| clean-shaven,| comb over,| drop fade,| fade,| fade with beard,| fade with goatee,| fade with mustache,| fade with sideburns,| french crop,| goatee,| high-fade,| layer cut,| long beard,| long hair,| long mustache,| low-fade,| medium hair,| mid-fade,| mustache,| mutton chops,| pompadour,| quiff,| razor cut,| scissor cut,| shaggy hair,| shaved head,| short back and sides,| short beard,| short hair,| short mustache,| side part,| side-swept fringe,| sideburns,| slick back,| spiky hair,| straight hair,| taper fade,| temp fade,| textured crop,| textured fringe,| thick beard,| thin beard,| undercut}
+{Elaborate,| Ornate,| Intricate,| Detailed,| Fine,| Refined,| Complicated,| Convoluted,| Extensive,| Exhaustive,| Far-reaching,| Informative,| In-depth,| Thorough,| Step-by-step,| Exact,| Precise,| Exquisite,| Lavish,| Sumptuous,| opulent,| luxurious,| Intricately designed,| Grandiose,| Stately,| Splendid,| Magnificent,| Precious,| Dazzling,| Imperceptible detail}
+{active,| athletic,| beefy,| brawny,| built,| bullish,| bullnecked,| burly,| defined,| dense,| developed,| durable,| firm,| fit,| hale,| hard,| hardy,| healthy,| Herculean,| hulking,| hunky,| husky,| in shape,| limber,| lusty,| meaty,| mesomorphic,| mighty,| muscle-bound,| muscular,| nimble,| pliant,| powerful,| powerfully built,| resilient,| ripped,| robust,| rugged,| shipshape,| shredded,| sinewy,| solid,| sound,| strapping,| strong,| sturdy,| substantial,| supple,| taut,| toned,| tough,| vigorous,| well-built}
+{lens flare,| backlighting,| sparkle,| bokeh,| caustics,| chiaroscuro,| anaglyph,| cinematic lighting,| ray tracing,| god rays}
+dynamic pose,
+<lora:128dimTurbomaleV7_128:0.6>","negative_hand-neg,bad-hands-5,badhandv4,
+verybadimagenegative_v1.3,EasyNegative,
+(pussy:1.5),(vigina:1.5),(viginal:1.5),(girl:1.5),(female:1.5),(extra nipples:1.5),(extra testicles:1.5),
+(worst quality:1.5),(bad quality:1.5),(low quality:1.5),(normal quality:1.5),deformed,(((too many fingers))),
+speech bubble,logo,text,watermark,signature,gym,
+abstract,mosaic art,sketches,lineart,doodles,unfinished,making-of,how to,
+bad perspective,error,lowres,jpeg artifacts,scan artifacts,monochrome,grayscale,
+blurry,bad anatomy,monochrome,username,out of focus,bad proportions,cropped,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
